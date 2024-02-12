@@ -10,7 +10,7 @@
       "Deployment"
     ],
     "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/X-Bin-Patch",
+    "repository": "https://github.com/laaj/mega-patch",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
       "APP_ID": {
